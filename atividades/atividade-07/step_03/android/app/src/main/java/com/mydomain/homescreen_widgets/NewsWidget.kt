@@ -25,7 +25,10 @@ class NewsWidget : AppWidgetProvider() {
                 context.packageName,
                 R.layout.news_widget
             ).apply {
-
+                setTextViewText(
+               R.id.student_name,
+                "Davi"
+                )
                 val title = widgetData.getString(
                     "headline_title",
                     null

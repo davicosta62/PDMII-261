@@ -14,7 +14,7 @@ class _MyHomePageState extends State<MyHomePage> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text('Top Stories'),
+        title: const Text('Top Stories - Davi Costa'),
         centerTitle: false,
         titleTextStyle: const TextStyle(
           fontSize: 30,

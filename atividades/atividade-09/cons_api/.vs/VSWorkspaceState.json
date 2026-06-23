@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\build\\app",
+    "\\build\\app\\intermediates",
+    "\\build\\native_assets",
+    "\\lib",
+    "\\lib\\models",
+    "\\lib\\screens",
+    "\\lib\\services"
+  ],
+  "SelectedNode": "\\lib\\screens\\usuarios_screen.dart",
+  "PreviewInSolutionExplorer": false
+}
